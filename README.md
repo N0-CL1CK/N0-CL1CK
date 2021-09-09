@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @N0-CL1CK
-- 👀 I’m interested in to learn
+- 👀 My main language's Python
 - 🌱 I’m currently learning Node.JS and C
