@@ -7,12 +7,12 @@
 > * - [X] CSS3
 > * - [X] HTML5
 > * - [X] Java
-> * - [X] Java Script
->   * - [X] Type Script
->   * - [X] Node.js
+> * - [X] Node.js
 >     * - [X] Express
 >     * - [X] Sequelize
 >     * - [X] EJS
+>   * - [X] Type Script
+>   * - [X] Java Script
 >     * etc ORMs
 > * - [X] Python
 > * - [X] SQL
