@@ -11,8 +11,8 @@
 >     * - [X] Express
 >     * - [X] Sequelize
 >     * - [X] EJS
+>     * etc ORMs
 >   * - [X] Type Script
 >   * - [X] Java Script
->     * etc ORMs
 > * - [X] Python
 > * - [X] SQL
