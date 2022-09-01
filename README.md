@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SF+Pro&size=22&duration=4000&pause=2000&color=DDDDDD&center=true&vCenter=true&width=1012&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SF+Pro&size=34&duration=4000&pause=2000&color=DDDDDD&center=true&vCenter=true&width=1012&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil)](https://git.io/typing-svg)
 
 # @N0-CL1CK
 ## Hey bro, what's up? 👋
