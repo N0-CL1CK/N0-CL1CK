@@ -13,7 +13,7 @@
 > - [X] SQL (MySQL & SQLite)
 > - [X] Git
 > - [X] Linux
-#
+>
 ### 🇧🇷 Outras habilidades | 🇺🇸 Others skills:
 > - [X] C
 > - [X] HTML & CSS
