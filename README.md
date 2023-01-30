@@ -5,7 +5,7 @@
   <a href="https://discordapp.com/users/515730867172278273"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>
 </div>
 <div align="center">
-  <a href="https://github.com/AndreNeves97">
+  <a href="https://github.com/N0-CL1CK">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N0-CL1CK&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0-CL1CK&layout=compact&langs_count=7&theme=dark"/>
   </a>
