@@ -12,10 +12,10 @@
 </div>
 
 ### Sobre mim 🇧🇷:
-> Estou na área de desenvolvimento de software desde 2018, sou formado em T.I (Instituto Federal de Educação, Ciência e Tecnologia de Rondônia) e também cursei 2 períodos de Engenharia de Computação (Universidade Tecnológica Federal do Paraná).
+> Estou na área de desenvolvimento de software desde 2018, sou formado em T.I (IFRO - Instituto Federal de Educação, Ciência e Tecnologia de Rondônia), cursei 2 períodos de Engenharia de Computação (UTFPR - Universidade Tecnológica Federal do Paraná) e atualmente estou cursando Análise e Desenvolvimento de Sistemas (IFRO).
 >
 ### About me 🇺🇸:
-> I'm in the software development area since 2018, degree in I.T (Federal Institute of Education, Science and Technology of Rondônia) and also did 2 periods of Computer Engineering (Federal University of Technology – Paraná).
+> I'm in the software development area since 2018, degree in I.T (Federal Institute of Education, Science and Technology of Rondônia) and also did 2 periods of Computer Engineering (Federal University of Technology – Paraná) and I'm currently studying Systems Analysis and Development (IFRO).
 > 
 #
 ### 🇧🇷 Habilidades | 🇺🇸 Skills:
